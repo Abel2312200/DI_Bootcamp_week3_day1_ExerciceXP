@@ -1,0 +1,15 @@
+.users {
+    background-color: blue;
+}
+
+.first-li{
+    display: none;
+}
+
+.second-li{
+    border: 5px;
+}
+
+body{
+    font-size: 20px;
+}
